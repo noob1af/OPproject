@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <string-array name="labels_array">
+        <item>Faculty</item>
+        <item>Student</item>
+    </string-array>
+    -->
+    <string name="app_name">OPproject</string>
+    <string name="facultyLoginButton">FACULTY LOGIN</string>
+    <string name="studentLoginButton">STUDENT LOGIN</string>
+    <string name="accountCreationHelpline">Don\'t have an account?</string>
+    <string name="signUpButton">SIGN UP</string>
+    <string name="UsernameHint">Username</string>
+    <string name="UserIdHint">User id</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="Password">Password</string>
+    <string name="New_password">New password</string>
+    <string name="Confirm_password">Confirm password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="contentDescription">TODO</string>
+    <string name="faculty_signup_button">FACULTY SIGN UP</string>
+    <string name="student_sign_up_button">STUDENT SIGN UP</string>
+
+</resources>
